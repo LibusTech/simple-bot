@@ -1,0 +1,26 @@
+{
+  "name": "simple-bot",
+  "version": "1.0.0",
+  "description": "A simple discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LibusTech/simple-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Libus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LibusTech/simple-bot/issues"
+  },
+  "homepage": "https://github.com/LibusTech/simple-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.0"
+  }
+}
